@@ -1,0 +1,21 @@
+ <!DOCTYPE html>
+
+ <html lang="es">
+
+ <head> 
+
+ <meta charset="UTF-8">
+ <meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+ <title>Mi Página web  2</title>
+ <h1>Gatitos</h1>
+ <body> 
+ <header> 
+<img>
+<src> https://www.hola.com/mascotas/20180925130054/consejos-para-cuidar-a-un-gatito-recien-nacido-cs/
+    <alt>Gatito naranja</alt>
+    <width>10</width>
+    <height>10</height>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/u0XHVssfsYM?si=w3xrjze_A5ejVas8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    
