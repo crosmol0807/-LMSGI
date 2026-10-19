@@ -12,10 +12,15 @@ initial-scale=1.0">
  <h1>Gatitos</h1>
  <body> 
  <header> 
-<img>
-<src> https://www.hola.com/mascotas/20180925130054/consejos-para-cuidar-a-un-gatito-recien-nacido-cs/
+<img>https://i.pinimg.com/736x/3e/5f/0a/3e5f0adceb44ec9eed2b6394bad09ea9.jpg <img>
+<a> 
+<src> https://www.hola.com/mascotas/20180925130054/consejos-para-cuidar-a-un-gatito-recien-nacido-cs/<src>
     <alt>Gatito naranja</alt>
     <width>10</width>
     <height>10</height>
+    <a href="#video">Ir al vídeo</a>
+    <a href="#imagen">Ir a la imagen</a>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/u0XHVssfsYM?si=w3xrjze_A5ejVas8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h1>Perritos</h1>
+
     
