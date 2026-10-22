@@ -7,7 +7,7 @@ content="width=device-width,
 initial-scale=1.0">
  <title>EJERCICIO 2 b</title>
 
- <body> que contenga:
+ <body> 
  <header> con:
  <h1>GATITOS</h1>
  <p>Crear una pagina web utilizando contenido incrustrado y macadores</p>
@@ -26,3 +26,4 @@ initial-scale=1.0">
 <meta name = "description" content=""Pagina de gatos" >
 <meta name = "author" content = "Tu Nombre">
 
+<body> 
