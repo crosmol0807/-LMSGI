@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+ <head> con:
+ <meta charset="UTF-8">
+ <meta name="viewport"
+content="width=device-width,
+initial-scale=1.0">
+ <title>EJERCICIO 2 b</title>
+
+ <body> que contenga:
+ <header> con:
+ <h1>GATITOS</h1>
+ <p>Crear una pagina web utilizando contenido incrustrado y macadores</p>
+ <imagen> 
+
+ <src>https://thumbs.dreamstime.com/b/gato-dom%C3%A9stico-blanco-y-negro-sentado-bastante-adulto-en-mirando-hacia-adelante-215987660.jpg </src>
+
+<alt> Foto de gatito blanco y negro <alt>
+
+<width> 18<width> 
+<height> 19<height> 
+
+</imagen>
+<iframe> width="560" height="315" src="https://www.youtube.com/embed/u0XHVssfsYM?si=WBbIgIsc2lSr5HhX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen> </iframe>
+<ahref> </ahref>
+<meta name = "description" content=""Pagina de gatos" >
+<meta name = "author" content = "Tu Nombre">
+
