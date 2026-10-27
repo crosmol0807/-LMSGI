@@ -1,0 +1,63 @@
+<table>
+<caption>Horario del grupo </caption>
+<colgroup>
+<cool>
+<col snap = "5" />
+</colgroup> 
+<thead>
+<tr>
+<th>Tramo</th>
+<th>Lunes</th> 
+<th>Martes</th>
+<th>Miércoles</th>
+<th>Jueves</th>
+<th>Viernes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+    <th>8.15</th>
+    <td rowspan = "2">ADA</td>
+    <td rowspan = "2">SIMR</td>
+    <td rowspan = "2">`PLE</td>
+    <td rowspan = "2">PLE</td>
+    <td rowspan = "2">ADA</td>
+</tr>
+<tr>
+    <th>9.15</th>
+</tr>
+<tr>
+    <th>10.15</th>
+    <td >PLE</td>
+    <td >ADA</td>
+    <td >PLE</td>
+</tr>
+<tr>
+    <th>11.15</th>
+    <td colspan="5">Receso</td>
+</tr>
+<tr>
+    <th>11.45</th>
+    <td rowspan = "2">SIMR</td>
+    <td rowspan = "2">ADA</td>
+    <td rowspan = "2">ADA</td>
+    <td rowspan = "2">SIMR</td>
+    <td >PLE</td>
+</tr>
+<tr>
+    <th>12.45</th>
+    <td rowspan = "2">PLE</td>
+    <td rowspan = "2">SIMR</td>
+    </tr>
+<tr>
+    <th>13.45</th>
+    <td>IUA</td>
+</tr>
+</tbody>
+  <tfoot>
+      <tr>
+            <td colspan = "6">Horario del grupo</td>                
+      </tr>
+  </tfoot>
+</table>
+    
