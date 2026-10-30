@@ -1,3 +1,9 @@
+a<!DOCTYPE html>
+<h1tml lang = "es">
+<heat>
+
+<meta charset ="UTF-8">
+<meta name = "viewport" content = "width=device-width, initial-scale=1.0">  
 <table>
 <caption>Horario del grupo </caption>
 <colgroup>
@@ -6,58 +12,79 @@
 </colgroup> 
 <thead>
 <tr>
-<th>Tramo</th>
-<th>Lunes</th> 
-<th>Martes</th>
-<th>Miércoles</th>
-<th>Jueves</th>
-<th>Viernes</th>
+    <th><HORA </th>
+    <th>Lunes</th> 
+    <th>Martes</th>
+    <th>Miércoles</th>
+    <th>Jueves</th>
+    <th>Viernes</th>
 </tr>
 </thead>
 <tbody>
 <tr>
     <th>8.15</th>
-    <td rowspan = "2">ADA</td>
-    <td rowspan = "2">SIMR</td>
-    <td rowspan = "2">`PLE</td>
-    <td rowspan = "2">PLE</td>
-    <td rowspan = "2">ADA</td>
+</tr>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">ENTORNOS DE DESARROLLO</td>
+    <td rowspan = "2">`SISTEMAS INFORMATICOS</td>
+    <td rowspan = "2">BASE DE DATOS</td>
+    <td rowspan = "2">BASE DE DATOS</td>
 </tr>
 <tr>
+    //tr------->Columna
+    //td------->Fila
+    //td rowspan = "2"------->Fila que ocupa 2 filas
     <th>9.15</th>
 </tr>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">BASE DE DATOS</td>
+    <td rowspan = "2">`SISTEMAS INFORMATICOS</td>
+    <td rowspan = "2">BASE DE DATOS</td>
+    <td rowspan = "2">BASE DE DATOS</td>
 <tr>
     <th>10.15</th>
-    <td >PLE</td>
-    <td >ADA</td>
-    <td >PLE</td>
+</tr>
+    <td rowspan = "2">ENTORNOS DE DESARROLLO</td>
+    <td rowspan = "2">BASE DE DATOS</td>
+    <td rowspan = "2">SOSTENIBILIDAD</td>
+    <td rowspan = "2">LENGUAJE DE MARCAS</td>
+    <td rowspan = "2">IPE</td>
 </tr>
 <tr>
     <th>11.15</th>
-    <td colspan="5">Receso</td>
+    <td colspan="5">RECREO</td>
 </tr>
 <tr>
     <th>11.45</th>
-    <td rowspan = "2">SIMR</td>
-    <td rowspan = "2">ADA</td>
-    <td rowspan = "2">ADA</td>
-    <td rowspan = "2">SIMR</td>
-    <td >PLE</td>
+    <td rowspan = "2">ENTORNOS DE DESARROLLO</td>
+    <td rowspan = "2">SISTEMAS INFORMATICOS</td>
+    <td rowspan = "2">IPE</td>
+    <td rowspan = "2">LENGUAJE DE MARCAS</td>
+    <td rowspan = "2">IPE</td>
 </tr>
 <tr>
     <th>12.45</th>
-    <td rowspan = "2">PLE</td>
-    <td rowspan = "2">SIMR</td>
+    <td rowspan = "2">LENGUAJE DE MARCAS</td>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">SISTEMAS INFORMATICOS</td>
+
     </tr>
 <tr>
     <th>13.45</th>
-    <td>IUA</td>
+    <td rowspan = "2">DIGITALIZACIÓN</td>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">PROGRAMACIÓN</td>
+    <td rowspan = "2">SISTEMAS INFORMATICOS</td>
+</tr>
 </tr>
 </tbody>
   <tfoot>
       <tr>
-            <td colspan = "6">Horario del grupo</td>                
+            <td colspan = "6">Horario de la clase 1ºDAW A</td>                
       </tr>
   </tfoot>
 </table>
     
+

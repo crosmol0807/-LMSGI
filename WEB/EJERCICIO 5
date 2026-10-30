@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ejercicio 5</title>
+
+    </head>
+    <body>
+
+    </body>
+</html>
+<header>
+    <h1>MENÚ PRINCIPAL</h1>
+    <nav>
+        <a href="https://tse3.mm.bing.net/th/id/OIP.JPrXLofT_uD3g99XjMgaygHaHa?r=0&rs=1&pid=ImgDetMain&o=7&rm=3" target="_blank">Imagen</a>
+    </nav>
+</header>
+<main>
+    <section>
+        <h2>SECCIÓN 1</h2>
+        <p>Esta es la primera sección del ejercicio 5</p>
+       </section>
+    <section>
+            <h3>SECCIÓN 2</h3>
+            <p>Esta es la segunda sección del ejercicio 5</p> 
+        </section>  
+</main>
